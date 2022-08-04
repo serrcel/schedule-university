@@ -37,6 +37,7 @@ class Lesson(models.Model):
         verbose_name = 'Пара'
         verbose_name_plural = 'Пары'
 
+
 class Day(models.Model):
     """"
     Модель дня недели.
